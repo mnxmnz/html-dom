@@ -1,3 +1,5 @@
 # HTML DOM
 
-- [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom)
+## Level1 - Basic
+
+- [Change the favicon dynamically based on user's color scheme preference](./level1-basic/src/01)

@@ -1,3 +1,3 @@
-import { setFavicon } from '../01/main';
+import { setFavicon } from './01/src/main';
 
 setFavicon();
